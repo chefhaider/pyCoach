@@ -62,6 +62,3 @@ def showtraceback(self,running_compiled_code = True):
 def activate_solution():
     IPython.core.interactiveshell.InteractiveShell.showtraceback = showtraceback
 
-if __name__ == "__main__":
-    activate_solution()
-
