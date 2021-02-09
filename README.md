@@ -1,6 +1,6 @@
 # pyCoach
 
-- [x] Just install the package using the "pip" command and activate it using the function, and  the package is ready guide you through out your coding
+- [x] Just install the package using the "pip" command and activate it using the function, and  the package is ready to guide you through out your coding
 
 ### Here's a little preview of how the package works
 
