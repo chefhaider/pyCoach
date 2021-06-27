@@ -20,7 +20,6 @@ import IPython
 
 def displaySol(query1,query2):
 
-
     query2 = query2.split('\n')[1]
     
     query1 += query1 + ' stackoverflow'
@@ -60,5 +59,6 @@ def showtraceback(self,running_compiled_code = True):
 
 
 def activate_solution():
+    print('test version')
     IPython.core.interactiveshell.InteractiveShell.showtraceback = showtraceback
 
